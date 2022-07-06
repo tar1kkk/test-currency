@@ -1,0 +1,11 @@
+.header{
+	height: 70px;
+	width: 100%;
+	background: #696969;
+	display: flex;
+	justify-content: space-between;
+}
+.dataList{
+	color: azure;
+	padding-right: 20px;
+}
